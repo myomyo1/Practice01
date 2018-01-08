@@ -21,10 +21,7 @@ public class Problem04 {
  				System.out.println(won[i] + "원 : " + number + "개"); 
  			} 
  		} 
-
-		
-		
-				
+			
 		scan.close();
 	}
 }
