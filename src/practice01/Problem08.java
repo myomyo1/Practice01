@@ -38,6 +38,7 @@ public static void main(String[] args) {
 		case 4 :
 			System.out.println("프로그램 종료");
 			isRunning = false;
+		default : System.out.println("다시입력해주세요.");
 		}
 	}
 }
